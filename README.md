@@ -1,5 +1,5 @@
 # traffic-light
-- Code to implemet a simple trffic light system on a Raspberry Pi.
+- Code to implement a simple traffic light system on a Raspberry Pi.
 
   - run main.py
 
